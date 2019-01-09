@@ -1,5 +1,5 @@
 header {
-    background: #444;
+    background: black;
     color: white;
     padding: 20px;
   }
@@ -9,3 +9,8 @@ header {
   h1 {
     font-size: 25px;
   }
+
+  h2 {font-size: 20px;}
+
+  main {text-align: center;
+border: 5px solid black }
